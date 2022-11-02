@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Demo heroku...222222222
+          restaurant 2 
         </a>
       </header>
     </div>
